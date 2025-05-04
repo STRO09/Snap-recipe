@@ -43,3 +43,6 @@ next-env.d.ts
 #firebase studio env
 
 /.idx
+
+#apikeys
+.env
